@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- ![](https://komarev.com/ghpvc/?username=muhammeduraz&style=flat-square)
+- Unity Game Developer.
+- Interested and working on mobile game especially hyper-hybrid-casual genres
+- Here is my LinkedIn account : https://www.linkedin.com/in/msaiduraz/
+[![Irfan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=muhammeduraz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/muhammeduraz/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=muhammeduraz&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/muhammeduraz/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammeduraz&layout=compact)](https://github.com/muhammeduraz/github-readme-stats)
+
 <!--
 **muhammeduraz/muhammeduraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
