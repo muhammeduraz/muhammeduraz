@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammeduraz&label=Profile%20views&color=0e75b6&style=flat" alt="muhammeduraz" /> </p>
 
+- 🔭 Portfolio **muhammeduraz.com**
 - 📫 How to reach me **msaiduraz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
