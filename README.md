@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammeduraz&label=Profile%20views&color=0e75b6&style=flat" alt="muhammeduraz" /> </p>
 
-- 🔭 Portfolio **muhammeduraz.com**
 - 📫 How to reach me **msaiduraz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="muhammeduraz.com" target="blank"><img align="center" alt="msaiduraz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/msaiduraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msaiduraz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/msaiduraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="msaiduraz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21500710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21500710" height="30" width="40" /></a>
