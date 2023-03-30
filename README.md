@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Muhammed Said Uraz</h1>
+<h1 align="center">Hi, I'm Muhammed Said Uraz</h1>
 <h3 align="center">Unity Game Developer</h3>
 
-<p align="left"> <a href="https://muhammeduraz.com" target="blank">Portfolio</a></p>
+<p align="left"> <a href="https://muhammeduraz.com" target="blank">📓 Portfolio</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammeduraz&label=Profile%20views&color=0e75b6&style=flat" alt="muhammeduraz" /> </p>
 
 - 📫 How to reach me **msaiduraz@gmail.com**
