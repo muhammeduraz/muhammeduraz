@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **msaiduraz@gmail.com**
 
-<a href="muhammeduraz.com" target="blank">Portfolio</a>
+<a href="https://muhammeduraz.com" target="blank">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
